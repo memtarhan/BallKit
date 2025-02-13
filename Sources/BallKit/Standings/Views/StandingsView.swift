@@ -34,6 +34,7 @@ public struct StandingsView: View {
         VStack(alignment: .leading, spacing: 0) {
             StandingTableLastGamesHeader()
                 .frame(height: 45)
+                .background(.primary)
 
             Divider()
 
@@ -41,7 +42,6 @@ public struct StandingsView: View {
                 VStack(spacing: 0) {
                     LastFiveGamesView(data: standing.lastFiveGames)
                         .frame(height: 45)
-                        .background(.primary)
 
                     Line()
                         .stroke(style: .init(dash: [1]))
