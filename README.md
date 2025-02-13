@@ -34,3 +34,12 @@ struct ContentView: View {
 - Add https://github.com/memtarhan/BallKit.git
 - Select "Up to Next Major" with "2.0.0"
 
+
+### Demo
+
+
+https://github.com/user-attachments/assets/2e867d9c-281d-4cad-83bd-7e5d450c77ae
+![Standings](https://github.com/user-attachments/assets/612d969c-bed8-43d3-a20a-dfe944aa4a81)
+
+
+
